@@ -8,8 +8,8 @@
 }
 .App{
   max-width: 380px;
-  background-color: red;
-/*   background-color: darkslateblue; */
+
+  background-color: darkslateblue;
   min-height: 100vh;
   overflow: scroll;
   margin: auto;
