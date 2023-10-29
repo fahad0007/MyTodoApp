@@ -10,7 +10,7 @@
   max-width: 375px;
 
   background-color: darkslateblue;
-  min-height: 100vh;
+  max-height: 95vh;
 /*   overflow: scroll; */
   margin: auto;
  
