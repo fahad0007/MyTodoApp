@@ -1,0 +1,17 @@
+.main .input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main .input input{
+    width: 275px;
+    outline: none;
+    font-size: 19px;
+    padding: 5px 5px;
+}
+.main .input .add{
+    height: 35px;
+    padding: 0px 10px;
+    margin-left: 3px;
+    /* background-color: green; */
+}

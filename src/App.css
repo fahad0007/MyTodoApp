@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  &::-webkit-scrollbar{
+    display: none;
+  }
+}
+.App{
+  max-width: 375px;
+  /* background-color: darkslategray; */
+  background-color: darkslateblue;
+  min-height: 100vh;
+  overflow: scroll;
+  margin: auto;
+ 
+  
+}
+.header{
+  text-align: center;
+  padding: 20px 0px;
+  color: beige;
+}
