@@ -8,6 +8,7 @@ overflow-y: hidden;
   max-height: 63vh;
   /* margin: 15px 0; */
   margin: 10px 0;
+  background-color:black;
   overflow-y: scroll;
   &::-webkit-scrollbar{
     display: none;
