@@ -7,8 +7,8 @@
   }
 }
 .App{
-  max-width: 390px;
-
+  max-width: 385px;
+text-align: center;
   background-color: darkslateblue;
   min-height: 100vh;
   overflow: scroll;
