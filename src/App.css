@@ -11,7 +11,8 @@
 text-align: center;
   background-color: darkslateblue;
   min-height: 100vh;
-  overflow: scroll;
+  overflow-y: scroll;
+  overflow-x: hidden;
   margin: auto;
  
   
