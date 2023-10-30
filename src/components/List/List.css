@@ -6,8 +6,8 @@ overflow-y: hidden;
 }
 .list .wrap {
   max-height: 63vh;
-  margin: 15px 0;
-  padding: 10px ;
+  margin: 10px 0;
+/*   padding: 10px ; */
   overflow-y: scroll;
   &::-webkit-scrollbar{
     display: none;
