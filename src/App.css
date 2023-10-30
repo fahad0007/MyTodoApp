@@ -7,10 +7,10 @@
   }
 }
 .App{
-  max-width: 380px;
+  max-width: 385px;
 
   background-color: darkslateblue;
-  max-height: 99vh;
+  min-height: 99vh;
   overflow: hidden;
   margin: auto;
  
